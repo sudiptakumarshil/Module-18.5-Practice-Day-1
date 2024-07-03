@@ -8,7 +8,7 @@
     $ docker-compose build
     $ docker-compose up -d
 
-# Restart Docker Containers
+# Restart Docker Containers:
     $ docker-compose down
     $ docker-compose up -d
     
