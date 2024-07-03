@@ -1,0 +1,634 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserChangeForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangeForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "SetPasswordForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "update_session_auth_hash",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "project.asgi",
+        "description": "project.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "project.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-v*qwc%5m&4ivw%j+@k*d_lw@25zo_-5$j8de-g9tvjg_@f70!8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-v*qwc%5m&4ivw%j+@k*d_lw@25zo_-5$j8de-g9tvjg_@f70!8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'crispy_forms','crispy_bootstrap5',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'crispy_forms','crispy_bootstrap5',\n    'user_auth','user_profile'\n]",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_ALLOWED_TEMPLATE_PACKS",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "CRISPY_ALLOWED_TEMPLATE_PACKS = \"bootstrap5\"\nCRISPY_TEMPLATE_PACK = \"bootstrap5\"\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = \"bootstrap5\"\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'project.urls'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "ROOT_URLCONF = 'project.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'project.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MESSAGE_STORAGE",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "project.urls",
+        "description": "project.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', home, name='home'),\n    path('auth/', include('user_auth.urls')),\n    path('auth/', include('user_profile.urls'))\n]",
+        "detail": "project.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "project.views",
+        "description": "project.views",
+        "peekOfCode": "def home(request):\n    return render(request,'home.html')",
+        "detail": "project.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "project.wsgi",
+        "description": "project.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "project.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "UserAuthConfig",
+        "kind": 6,
+        "importPath": "user_auth.apps",
+        "description": "user_auth.apps",
+        "peekOfCode": "class UserAuthConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user_auth'",
+        "detail": "user_auth.apps",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterForm",
+        "kind": 6,
+        "importPath": "user_auth.forms",
+        "description": "user_auth.forms",
+        "peekOfCode": "class RegisterForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = ['username','email','first_name','last_name']",
+        "detail": "user_auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "user_auth.urls",
+        "description": "user_auth.urls",
+        "peekOfCode": "urlpatterns = [\n    path('user/register',user_register,name='user.register'),\n    path('user/login',user_login,name='user.login'),\n    path('user/logout',user_logout,name='user.logout'),\n]",
+        "detail": "user_auth.urls",
+        "documentation": {}
+    },
+    {
+        "label": "user_register",
+        "kind": 2,
+        "importPath": "user_auth.views",
+        "description": "user_auth.views",
+        "peekOfCode": "def user_register(request):\n    if not request.user.is_authenticated:\n        if request.method == 'POST':\n            form = RegisterForm(request.POST)\n            if form.is_valid():\n                form.save()\n                messages.success(request,'User created Successfully!!')\n                return redirect('home')\n        else:\n            form = RegisterForm()",
+        "detail": "user_auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "user_login",
+        "kind": 2,
+        "importPath": "user_auth.views",
+        "description": "user_auth.views",
+        "peekOfCode": "def user_login(request):\n    if not request.user.is_authenticated:\n        if request.method == 'POST':\n            form = AuthenticationForm(request = request, data=request.POST)\n            if form.is_valid():\n                username = form.cleaned_data['username']\n                password = form.cleaned_data['password']\n                user = authenticate(username = username, password = password)\n                if user is not None:\n                    login(request,user)",
+        "detail": "user_auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "user_logout",
+        "kind": 2,
+        "importPath": "user_auth.views",
+        "description": "user_auth.views",
+        "peekOfCode": "def user_logout(request):\n    logout(request)\n    messages.success(request,'Logged Out Successfully!')\n    return redirect('user.login')",
+        "detail": "user_auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileConfig",
+        "kind": 6,
+        "importPath": "user_profile.apps",
+        "description": "user_profile.apps",
+        "peekOfCode": "class UserProfileConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user_profile'",
+        "detail": "user_profile.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ChangeUserForm",
+        "kind": 6,
+        "importPath": "user_profile.forms",
+        "description": "user_profile.forms",
+        "peekOfCode": "class ChangeUserForm(UserChangeForm):\n    password = None\n    class Meta:\n        model = User\n        fields = ['username','email','first_name','last_name']",
+        "detail": "user_profile.forms",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "user_profile.urls",
+        "description": "user_profile.urls",
+        "peekOfCode": "urlpatterns = [\n    path('user/profile',user_profile,name='user.profile'),\n    path('user/change-password',password_change,name='user.password_change'),\n    path('user/change-password-except-old',password_change_except_old,name='user.password_change_except_old'),\n    path('user/update-profile',changeUserProfile,name='user.update_profile'),\n]",
+        "detail": "user_profile.urls",
+        "documentation": {}
+    },
+    {
+        "label": "user_profile",
+        "kind": 2,
+        "importPath": "user_profile.views",
+        "description": "user_profile.views",
+        "peekOfCode": "def user_profile(request):\n    if request.user.is_authenticated:\n        return render(request,'profile.html',{'user':request.user})\n    return redirect('user.login')\ndef password_change(request):\n    if request.user.is_authenticated:\n        if request.method == 'POST':\n            form  = PasswordChangeForm(user = request.user,data = request.POST)\n            if form.is_valid():\n                user = form.save()",
+        "detail": "user_profile.views",
+        "documentation": {}
+    },
+    {
+        "label": "password_change",
+        "kind": 2,
+        "importPath": "user_profile.views",
+        "description": "user_profile.views",
+        "peekOfCode": "def password_change(request):\n    if request.user.is_authenticated:\n        if request.method == 'POST':\n            form  = PasswordChangeForm(user = request.user,data = request.POST)\n            if form.is_valid():\n                user = form.save()\n                update_session_auth_hash(request, user)\n                messages.success(request,'Password Changed Successfully!!')\n                return redirect('user.profile')\n            messages.warning(request,form.errors.as_text())",
+        "detail": "user_profile.views",
+        "documentation": {}
+    },
+    {
+        "label": "password_change_except_old",
+        "kind": 2,
+        "importPath": "user_profile.views",
+        "description": "user_profile.views",
+        "peekOfCode": "def password_change_except_old(request):\n    if request.user.is_authenticated:\n        if request.method == 'POST':\n            form  = SetPasswordForm(user = request.user,data = request.POST)\n            if form.is_valid():\n                user = form.save()\n                update_session_auth_hash(request, user)\n                messages.success(request,'Password Changed Successfully!!')\n                return redirect('user.profile')\n            messages.warning(request,form.errors.as_text())",
+        "detail": "user_profile.views",
+        "documentation": {}
+    },
+    {
+        "label": "changeUserProfile",
+        "kind": 2,
+        "importPath": "user_profile.views",
+        "description": "user_profile.views",
+        "peekOfCode": "def changeUserProfile(request):\n    if request.user.is_authenticated:\n        if request.method == 'POST':\n            form  = ChangeUserForm(request.POST,instance=request.user)\n            if form.is_valid():\n                form.save()\n                messages.success(request,'User Info Updated Successfully!!')\n                return redirect('user.profile')\n            messages.warning(request,form.errors.as_text())\n        else:",
+        "detail": "user_profile.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
